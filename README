@@ -1,0 +1,13 @@
+Description de l’exercice
+
+L’objectif de cet exercice est de déterminer le métier d’un candidat à partir des informations sur ses compétences.
+
+A partir d'un dataset de compétences compilé par Aquila, réaliser :
+    • Un clustering non supervisé afin d'identifier 2 groupes de profils techniques distincts:
+      J’ai décidé d’utiliser une algorithme classique, kmeans. Il était ma première fois avec 
+      kmeans et j’ai utilisé un peu plus de temps pour étudier comment il marche et comme
+      l’implémenter. 
+    • Une prédiction des profils dont le métier n'est pas labellisé: 
+      utilisation du modèle Random Forest.
+
+Durée du test : plus ou moins un jour et demi, avec une partie dédiée à étudier kmeans.
